@@ -18,4 +18,4 @@ You can give argument in commandline or in the intellij Run configuration.
 The only argument you might give it is the file name which contains deck of cards.
 
 **The argument is not necessary.** The program is smart enough to read the deck of cards from 
-the correct file that resides in the Resources folder or create a new one.
+the correct file that resides in the Resources folder or create a new one!
